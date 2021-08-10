@@ -3,6 +3,8 @@ https://gitcoin.co/issue/nervosnetwork/grants/3/100026209
 Gitcoin: 2) Deploy A Simple Ethereum Smart Contract On Polyjuice
 
 1. A screenshot of the console output immediately after you have successfully deployed a smart contract.
+2. ![image](https://user-images.githubusercontent.com/29400517/128819397-650f096b-da80-494b-9c12-f4beb0dd8b9a.png)
+
 
 
 2. The transaction hash from the contract deployment (in text format).
